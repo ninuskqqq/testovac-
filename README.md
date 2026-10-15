@@ -1,7 +1,7 @@
 # testovaci
 muj bombozni test
 
-##nadpis urovně 1
+##nadpis 2. úrovně
 **tučný text** "bohuno"
 
 -neco
