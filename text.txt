@@ -1,1 +1,2 @@
 bomba
+libovolná uprava textového dokumentu
